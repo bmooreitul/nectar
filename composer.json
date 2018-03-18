@@ -1,0 +1,11 @@
+{
+    "name": "nectar/nectar",
+	"description": "The official PHP Library for the Nectar AMS.",
+    "keywords": ["Nectar AMS", "PHP"],
+    "license": "MIT",
+    "autoload": {
+        "psr-0" : {
+            "nectar\\" : "src"
+        }
+    }
+}
